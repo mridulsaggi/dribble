@@ -1,0 +1,113 @@
+body{
+  font-family: 'Nunito', sans-serif;
+  background-color: rgb(181, 216, 255);
+}
+.main{
+  display: flex;
+  border-radius: 30px;
+  background-color: black;
+  height:80vh;
+  width:80vw;
+  /* align-items:center; */
+  /* justify-content: center; */
+  margin:4.4rem auto;
+}
+.left{
+  background-color: #5C9CE5;
+  width: 30%;
+  border-radius: 30px;
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+.bdd{
+  margin-top:40px ;
+  height:200px;
+  background-color: black;
+  width:200px;
+}
+.jj{
+  display: flex;
+  flex-direction: column;
+}
+.right{
+  width: 85%;
+  border-radius: 30px;
+  border-radius: 30px;
+  margin-left:auto;
+  position: relative;
+  background-color: #E4F1FF;
+
+}
+.top{
+  width:90%;
+  margin: 20px auto;
+  display:flex;
+  justify-content:space-between;
+  align-items: center;
+}
+.first{
+  display: flex;
+  flex-direction: column;
+}
+.lt{
+  font-weight: bold;
+}
+.pd{
+  margin-right: 8px;
+}
+.pdd{
+  margin-right: 20px;
+}
+.topp{
+  /* width:50px; */
+  margin-top: 30px;
+  margin-left: 30px;
+  /* left: 20px; */
+  display: flex;
+}
+.tmpp{
+  margin-top: 60px;
+  height: 180;
+  width:180px;
+}
+.card1{
+  background-color: #FFFFFF;
+  width:80%;
+  border-radius: 30px;
+  height:160px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+.tx{
+ font-weight: bold;
+ margin: 4px;
+ /* margin-top: 8px; */
+}
+.txc{
+ font-weight: bold;
+ margin: 10px 10px;
+ /* margin-top: 8px; */
+}
+.chart{
+  margin-left: 90px;
+  width:70%;
+  height:130px
+}
+.card{
+  display: flex;
+  width:90%;
+  margin: auto;
+}
+.cd{
+  border-radius: 30px;
+  width:25%;
+  text-align: center;
+  font-weight: bold;
+  margin: 5px auto;
+  /* margin:5px 40px; */
+  height:100px;
+  background-color: #FFFFFF;
+}
